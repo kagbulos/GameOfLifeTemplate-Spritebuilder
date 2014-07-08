@@ -374,7 +374,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>10</real>
+							<real>9</real>
 							<real>0.5</real>
 							<integer>2</integer>
 							<integer>0</integer>
@@ -403,6 +403,8 @@
 						<string>Grid.ccb</string>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -1754,8 +1756,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
